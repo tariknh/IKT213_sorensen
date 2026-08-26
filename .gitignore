@@ -8,6 +8,8 @@ build/
 dist/
 *.egg-info/
 .eggs/
+.pytest_cache/
+test_*.py
 
 # Virtual environments
 .venv/
