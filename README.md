@@ -8,7 +8,8 @@ Lab assignments for IKT213 Machine Vision.
 IKT213_sorensen/
 ├── assignment_1/
 ├── assignment_2/
-└── assignment_3/
+├── assignment_3/
+└── assignment_4/
 ```
 
 ## Environment
